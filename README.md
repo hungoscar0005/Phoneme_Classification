@@ -6,5 +6,5 @@ Data source : LibriSpeech (subset of train-clean-100)
 train_split.txt - train metadata (Phoneme ID)  
 train_labels.txt - train labels  (Phoneme match to its frame)  
 test_split.txt - test metadata  
-feat/train/{id}.pt & feat/test/{id}.pt - 39-dim MFCC w/ CMVN for each utterance(audio)  
+feat/train/{id}.pt & feat/test/{id}.pt - 39-dimension MFCC w/ CMVN for each utterance(audio)  
 
